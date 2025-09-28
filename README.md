@@ -1,4 +1,4 @@
-# FastMCP Demo Server
+# FastMCP Expense Tracker local Server
 
 A demonstration MCP server for expense management built with FastMCP (Model Context Protocol). This server provides tools and resources for tracking, categorizing, and managing personal or business expenses.
 
