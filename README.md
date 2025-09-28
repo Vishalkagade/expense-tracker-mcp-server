@@ -5,7 +5,8 @@ A demonstration MCP server for expense management built with FastMCP (Model Cont
 ## Demo
 
 Here's a demo video showing the FastMCP server in action:
-[Demo_mcp](https://github.com/user-attachments/assets/a9a31319-fc02-437a-99b5-47f85a08131f)
+![demo_mcp-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/d869d80a-824a-4b5d-943f-13c37b46f6b6)
+
 
 ## Installation
 
