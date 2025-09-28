@@ -44,5 +44,16 @@ uv run fastmcp install claude-desktop main.py
 ### Visual Dashboard
 You can also visually track the expenses on expense board created using [Streamlit](https://streamlit.io/)
 
+To run the streamlit host;
+```bash
+uv run streamlit run viz.py
+```
+
 ![viz image](viz//demo_viz.png)
 
+## Contact
+
+For questions, suggestions, or support, feel free to reach out:
+
+- **GitHub**: [Open an issue](https://github.com/yourusername/fastmcp-demo-server/issues)
+- **Email**: kagadevishal@gmail.com
