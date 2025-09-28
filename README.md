@@ -5,9 +5,7 @@ A demonstration MCP server for expense management built with FastMCP (Model Cont
 ## Demo
 
 Here's a demo video showing the FastMCP server in action:
-
-![Demo Video](viz//demo_mcp.mp4)
-
+C:\Users\kagad\fastmcp-demo-server\viz\demo_mcp.mp4
 
 ## Installation
 
